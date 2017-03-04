@@ -3,7 +3,7 @@
 ***
 *This is a very simple and easy to modify template for making a basic FAQ page, or any type of page where text or content can be shown and hidden.*  
 
-[See it in action](http://jacobcallen.com/)
+[See it in action](http://jacobcallen.com/assets/faq/FAQ.html)
 
 ##Quick back-story
 
